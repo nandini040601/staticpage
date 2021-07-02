@@ -1,0 +1,27 @@
+body{
+	padding:70px;
+}
+.jumbotron h1{
+         font-family: Playfair;
+         text-transform: uppercase;
+		}
+		.jumbotron p{
+        font-family:raleway;
+		}
+		.jumbotron{
+			color:#2c3e50;
+			background: #ecf0f1;
+		}
+		.navbar-inverse{
+			background:#2c3e50;
+			/*font-family:raleway;*/
+		}
+		a{
+			color:white;
+		}
+		.navbar-inverse .navbar-nav>li>a{
+			color:white;
+		}
+		.navbar-inverse .navbar-brand {
+    color: white;
+}
