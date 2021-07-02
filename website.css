@@ -1,0 +1,41 @@
+#content{
+	text-align: center;
+	padding-top:25%;
+	text-shadow:0px 4px 3px rgba(0,0,0,0.4),
+	            0px 8px 13px rgba(0,0,0,0.4),
+	            0px 18px 23px rgba(0,0,0,0.4)
+}
+.navbar{
+	background: black;
+	font-color:blue;
+}
+body{
+background:url(https://i.pinimg.com/564x/08/df/6b/08df6b41d9ab3498618f7050da8234a7.jpg),url(https://i.pinimg.com/564x/45/ba/04/45ba04f4986ecf2f5c0904038e3a2eec.jpg),url(https://i.pinimg.com/564x/3b/0b/cb/3b0bcb6f89f34a6b4a7a4ff1eb1b6140.jpg);
+/*background-size:1% 100%;*/
+background-position: left,center,right;
+background-size:35%,40%,33.33%;
+color:#f5f5dc;
+background-repeat:no-repeat;
+}
+html{
+	height:100%;
+	width:100%;
+}
+h1{
+	font-weight:700;
+	font-size:5em;
+	font-family:playfair;
+}
+h3{
+	font-family: lora;
+	font-weight:400;
+	font-size:2em;
+}
+hr{
+	width:400px;
+	border-top:1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+/*.nav{*/
+	/*font-color:white;*/
+/*}*/
